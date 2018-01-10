@@ -17,7 +17,7 @@ namespace DateDifferences
             double inMins = (inHours * 60);
             Console.WriteLine("Woah," +
                               "\nYou have been alive for " + inDays + " Days!" +
-                              "\nThats " + inHours + " hours!" +
+                              "\nThat's " + inHours + " hours!" +
                               "\nOr " + inMins + " minutes!");
             Console.ReadLine();
         }
